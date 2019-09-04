@@ -312,16 +312,6 @@ Why Add-on is recreated in every function: - because Google Apps Script is a <b>
     *	Click `Save`
 *	Once the deployment is saved, the new version replaces the previous one. It may take some time before the change registers for a given user.
 
-# LEFT WORK
-*	<b>Client API</b>
-    *	 the client is not made yet therefore I left it
-    *	Check line <b>149</b> of <b>code.gs</b>
-    *	Client API request will come there
-    *	All essential data is in `response` variable
-*	<b>Place order API</b>
-    *	Final order is not placed yet
-    *	See line no. <b>1783</b> of <b>code.gs</b>
-    *	`finalPara` variable have all details of order and access_token which will be passed as payload 
 
 ## Format of finalPara
 `{`<br>
